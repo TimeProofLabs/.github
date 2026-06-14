@@ -1,17 +1,25 @@
 # TimeProofLabs
 
-TimeProofLabs builds AI-native software and verification products.
+TimeProofLabs builds local-first truth, proof, and agent reliability systems.
 
-Our first product, TimeProof, helps people:
-- prove when digital work existed
-- prove it has not changed
-- let others verify it independently
+We focus on software that makes long-running AI work more consistent, reviewable, and trustworthy.
 
-We are focused on practical proof workflows for agencies, freelancers, creators, and teams that need clearer records around files, handoffs, approvals, and revisions.
+## What we're building
+
+- **TruthSpine**: an open-source local truth sidecar for AI agents that keeps long projects consistent by compiling conversations, actions, repo changes, failures, and decisions into compact project truth.
+- **TimeProof**: provenance and verification workflows for digital work, approvals, revisions, and handoffs.
+
+## Principles
+
+- local-first where it matters
+- verifiable records over vague memory
+- agent-agnostic tooling
+- compact context over bloated replay
+- practical systems, not demo-only abstractions
 
 ## Links
 
 - Website: https://timeprooflabs.com
 - App: https://app.timeprooflabs.com
 - Learn: https://learn.timeprooflabs.com
-
+- TruthSpine: https://github.com/TimeProofLabs/TruthSpine
