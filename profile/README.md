@@ -2,12 +2,12 @@
 
 TimeProofLabs builds local-first truth, proof, and agent reliability systems.
 
-We focus on software that makes long-running AI work more consistent, reviewable, and trustworthy.
+We build software that helps AI agents and long-running digital work stay consistent, verifiable, and trustworthy without requiring a heavy hosted platform.
 
 ## What we're building
 
-- **TruthSpine**: an open-source local truth sidecar for AI agents that keeps long projects consistent by compiling conversations, actions, repo changes, failures, and decisions into compact project truth.
-- **TimeProof**: provenance and verification workflows for digital work, approvals, revisions, and handoffs.
+- **TruthSpine**: an open-source local truth sidecar for AI agents and long-running projects that compiles conversations, actions, repo changes, failures, and decisions into compact project truth.
+- **TimeProof**: the provenance and verification heritage behind our work on durable, proof-bearing workflow state.
 
 ## Principles
 
@@ -15,7 +15,7 @@ We focus on software that makes long-running AI work more consistent, reviewable
 - verifiable records over vague memory
 - agent-agnostic tooling
 - compact context over bloated replay
-- practical systems, not demo-only abstractions
+- practical systems over novelty
 
 ## Links
 
