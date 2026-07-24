@@ -1,23 +1,28 @@
-# TimeProofLabs
+<p align="center">
+  <img src="truthspine-logo.png" width="180" alt="TruthSpine circuit tree">
+</p>
 
-TimeProofLabs builds local-first AI infrastructure for consistent, verifiable, long-running work.
+<h1 align="center">TimeProofLabs</h1>
 
-We build tools and systems that help AI work stay aligned across time. Our focus includes durable project truth, verifiable continuity, trustworthy agent infrastructure, and resilient AI workflows.
+<p align="center"><strong>TruthSpine keeps project Truth current, traceable, and available to every connected AI agent.</strong></p>
 
-## What we're building
+TruthSpine gives connected chats the current decisions, verified sources, history, and next project work without making the user repeatedly rebuild project context by hand. It runs locally and keeps project content local by default.
 
-- **TruthSpine**: a local-first project truth layer for long-running AI project work. It keeps multiple AI chats aligned to the same project truth, helping long projects stay coherent across sessions, reduce repeated context, and recover cleanly after interruption or context loss.
+## Start with TruthSpine
 
-## Principles
+- [Try TruthSpine free for 14 days](https://truthspine.app/#download)
+- [See how TruthSpine works](https://truthspine.app/#demo)
+- [Download releases and get support](https://github.com/TimeProofLabs/truthspine-app)
+- [Install the VS Code extension](https://marketplace.visualstudio.com/items?itemName=timeprooflabs.truthspine-vscode)
+- [View the audited JetBrains connector source](https://github.com/TimeProofLabs/truthspine-jetbrains)
 
-- local-first control
-- durable project truth
-- reliable agent workflows
-- compact context over bloated replay
-- practical systems over novelty
+## What it solves
 
-## Links
+- New chats can receive compact project Truth instead of a manual project explanation.
+- Agents stay grounded in current decisions and verified sources across long-running work.
+- Decisions, changes, sources, and next work remain traceable through SHA-256 parent-child lineage.
+- Conflicting or uncertain claims stay visible instead of quietly becoming accepted project Truth.
 
-- Website: https://timeprooflabs.com
-- App: https://app.timeprooflabs.com
-- TruthSpine: https://github.com/TimeProofLabs/TruthSpine
+Questions and private support: **support@timeprooflabs.com**
+
+TimeProofLabs LLC
