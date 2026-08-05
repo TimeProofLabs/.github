@@ -4,9 +4,9 @@
 
 <h1 align="center">TimeProofLabs</h1>
 
-<p align="center"><strong>TruthSpine keeps project Truth current, traceable, and available to every connected AI agent.</strong></p>
+<p align="center"><strong>TruthSpine Knows Your Project Truth and Automatically Keeps Your Agents Current, Start to Finish.</strong></p>
 
-TruthSpine gives connected chats the current decisions, verified sources, history, and next project work without making the user repeatedly rebuild project context by hand. It runs locally and keeps project content local by default.
+TruthSpine knows your project truth from the sources you connect, keeps it current as your project changes, and automatically gives your connected agents the project knowledge and next work they need. It runs locally and keeps project content local by default.
 
 ## Start with TruthSpine
 
