@@ -4,9 +4,9 @@
 
 <h1 align="center">TimeProofLabs</h1>
 
-<p align="center"><strong>TruthSpine Knows Your Project Truth and Automatically Keeps Your Agents Current, Start to Finish.</strong></p>
+<p align="center"><strong>Stop re-explaining your project to every new AI chat.</strong></p>
 
-TruthSpine knows your project truth from the sources you connect, keeps it current as your project changes, and automatically gives your connected agents the project knowledge and next work they need. It runs locally and keeps project content local by default.
+TruthSpine automatically gives each connected agent what it needs to continue: your latest project decisions, completed work, supporting evidence, and next steps. It runs locally and keeps project content local by default.
 
 ## Start with TruthSpine
 
@@ -18,10 +18,10 @@ TruthSpine knows your project truth from the sources you connect, keeps it curre
 
 ## What it solves
 
-- New chats can receive compact project Truth instead of a manual project explanation.
-- Agents stay grounded in current decisions and verified sources across long-running work.
+- New chats can receive the latest project decisions, completed work, evidence, and next steps instead of a manual project explanation.
+- Connected agents receive current decisions and supporting evidence across long-running work.
 - Decisions, changes, sources, and next work remain traceable through SHA-256 parent-child lineage.
-- Conflicting or uncertain claims stay visible instead of quietly becoming accepted project Truth.
+- Conflicting or uncertain claims stay visible instead of quietly becoming accepted project facts.
 
 Questions and private support: **support@timeprooflabs.com**
 
