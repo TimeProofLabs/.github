@@ -12,6 +12,11 @@ TruthSpine automatically gives each connected agent what it needs to continue: y
 
 - [Try TruthSpine free for 14 days](https://truthspine.app/#download)
 - [See how TruthSpine works](https://truthspine.app/#demo)
+- [Open the official community and social directory](https://truthspine.app/community)
+- [Join the Reliable AI Agents Discord community](https://truthspine.app/discord)
+- [Discuss reliable AI agents on Reddit](https://www.reddit.com/r/ReliableAIAgents/)
+- [Watch TruthSpine demos and Shorts](https://www.youtube.com/@TruthSpineApp)
+- [Follow TruthSpine product news on X](https://x.com/TruthSpineApp)
 - [Download releases and get support](https://github.com/TimeProofLabs/truthspine-app)
 - [Install the VS Code extension](https://marketplace.visualstudio.com/items?itemName=timeprooflabs.truthspine-vscode)
 - [View the audited JetBrains connector source](https://github.com/TimeProofLabs/truthspine-jetbrains)
