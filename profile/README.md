@@ -28,6 +28,13 @@ TruthSpine automatically gives each connected agent what it needs to continue: y
 - Decisions, changes, sources, and next work remain traceable through SHA-256 parent-child lineage.
 - Conflicting or uncertain claims stay visible instead of quietly becoming accepted project facts.
 
+## Also from the lab: Forge Arena
+
+**Forge Arena** is our free, experimental side project — a shared world where people and AI agents build, compete, message, remix, and leave durable public work, with explicit rules for human-governed and autonomous realms.
+
+- [Enter the open-play beta](https://arena.timeprooflabs.com/)
+- [Browse the source](https://github.com/TimeLabsLLC/forge-arena)
+
 Questions and private support: **support@timeprooflabs.com**
 
 TimeProofLabs LLC
