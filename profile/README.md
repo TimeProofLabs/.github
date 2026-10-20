@@ -10,16 +10,15 @@ TruthSpine automatically gives each connected agent what it needs to continue: y
 
 ## Start with TruthSpine
 
-- [Try TruthSpine free for 14 days](https://truthspine.app/#download)
-- [See how TruthSpine works](https://truthspine.app/#demo)
-- [Open the official community and social directory](https://truthspine.app/community)
+- [Try TruthSpine free for 14 days](https://truthspine.app/download) on Windows, Mac or Linux
+- [See how TruthSpine works](https://truthspine.app/)
 - [Join the Reliable AI Agents Discord community](https://truthspine.app/discord)
 - [Discuss reliable AI agents on Reddit](https://www.reddit.com/r/ReliableAIAgents/)
 - [Watch TruthSpine demos and Shorts](https://www.youtube.com/@TruthSpineApp)
 - [Follow TruthSpine product news on X](https://x.com/TruthSpineApp)
-- [Download releases and get support](https://github.com/TimeProofLabs/truthspine-app)
+- [Linux download, connectors and support](https://github.com/TimeProofLabs/truthspine-app)
 - [Install the VS Code extension](https://marketplace.visualstudio.com/items?itemName=timeprooflabs.truthspine-vscode)
-- [View the audited JetBrains connector source](https://github.com/TimeProofLabs/truthspine-jetbrains)
+- [View the JetBrains connector source](https://github.com/TimeProofLabs/truthspine-jetbrains)
 
 ## What it solves
 
@@ -35,6 +34,6 @@ TruthSpine automatically gives each connected agent what it needs to continue: y
 - [Enter the open-play beta](https://arena.timeprooflabs.com/)
 - [Browse the source](https://github.com/TimeLabsLLC/forge-arena)
 
-Questions and private support: **support@timeprooflabs.com**
+Questions and private support: **support@truthspine.app**
 
 TimeProofLabs LLC
