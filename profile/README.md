@@ -4,7 +4,7 @@
 
 <h1 align="center">TimeProofLabs</h1>
 
-<p align="center"><strong>TruthSpine is your project's memory, kept on your computer and shared by every AI tool you connect, so no new chat starts from zero.</strong></p>
+<p align="center"><strong>TruthSpine keeps your project’s memory, automatically on your computer and is used by every AI tool you connect, so no new chat starts from zero and the whole project has a full memory to work from.</strong></p>
 
 Every new AI chat forgets your project, so you explain it again. TruthSpine keeps one record of it on your own computer: what was decided, what's done, what's next, and the evidence for each. You don't write that record; your AI chats add to it as they work, and TruthSpine reads your project's own files. Every AI tool you connect, from Claude and ChatGPT to Cursor and 16 more, works from the same record. It uses no AI of its own, so it never spends your AI allowance by itself.
 
